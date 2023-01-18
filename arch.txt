@@ -28,7 +28,6 @@ arch.unixpeople.org
 arch.yhtez.xyz
 arch.yourlabs.org
 archimonde.ts.si
-archlinux-br.com.br
 archlinux.astra.in.ua
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
