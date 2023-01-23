@@ -155,6 +155,7 @@ linorg.usp.br
 linux.rz.rub.de
 lon.mirror.rackspace.com
 lysakermoen.com
+m.lqy.me
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirroir.labhouse.fr
@@ -321,6 +322,8 @@ mirror.spaceint.fr
 mirror.spazioincloud.it
 mirror.srv.fail
 mirror.stephen304.com
+mirror.stjschools.org
+mirror.sunred.org
 mirror.surf
 mirror.sysa.tech
 mirror.system.is
@@ -350,6 +353,7 @@ mirror.veriteknik.net.tr
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wdc1.us.leaseweb.net
+mirror.worldhotspot.org
 mirror.wormhole.eu
 mirror.wtnet.de
 mirror.wuki.li
@@ -358,8 +362,8 @@ mirror.xeonbd.com
 mirror.xtom.com.hk
 mirror.yal.sl-chat.ru
 mirror.yandex.ru
+mirror.yer.az
 mirror.zackmyers.io
-mirror1.cl.netactuate.com
 mirror2.evolution-host.com
 mirror2.sandyriver.net
 mirror2.totbb.net
@@ -461,6 +465,7 @@ repo.inara.pk
 repo.iut.ac.ir
 repo.miserver.it.umich.edu
 repo.skni.umcs.pl
+repo.slithery.uk
 ridgewireless.mm.fcix.net
 seoul.mirror.pkgbuild.com
 super.quantum-mirror.hu
