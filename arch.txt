@@ -173,6 +173,7 @@ mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anigil.com
 mirror.anquan.cl
+mirror.archlinux.bg
 mirror.archlinux.cl
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
@@ -210,6 +211,7 @@ mirror.darklinux.uk
 mirror.datacenter.by
 mirror.dc.uz
 mirror.digitalnova.at
+mirror.ditatompel.com
 mirror.dkm.cz
 mirror.dogado.de
 mirror.easyname.at
@@ -241,6 +243,7 @@ mirror.i3d.net
 mirror.ibakerserver.pt
 mirror.ibcp.fr
 mirror.ihost.md
+mirror.infernocomms.net
 mirror.informatik.tu-freiberg.de
 mirror.init7.net
 mirror.internode.on.net
@@ -461,7 +464,6 @@ quantum-mirror.hu
 repo.endpoint.ml
 repo.greeklug.gr
 repo.ialab.dsu.edu
-repo.inara.pk
 repo.iut.ac.ir
 repo.miserver.it.umich.edu
 repo.skni.umcs.pl
