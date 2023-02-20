@@ -91,6 +91,7 @@ dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
 download.nus.edu.sg
+edgeuno-bog2.mm.fcix.net
 europe.mirror.pkgbuild.com
 f.archlinuxvn.org
 fastmirror.pp.ua
@@ -144,6 +145,7 @@ ftpmirror.infania.net
 geo.mirror.pkgbuild.com
 glua.ua.pt
 gluttony.sin.cvut.cz
+gsl-syd.mm.fcix.net
 hkg.mirror.rackspace.com
 iad.mirror.rackspace.com
 iad.mirrors.misaka.one
@@ -450,6 +452,7 @@ mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
+nnenix.mm.fcix.net
 nova.quantum-mirror.hu
 ord.mirror.rackspace.com
 os.codefionn.eu
@@ -470,6 +473,7 @@ repo.skni.umcs.pl
 repo.slithery.uk
 ridgewireless.mm.fcix.net
 seoul.mirror.pkgbuild.com
+southfront.mm.fcix.net
 super.quantum-mirror.hu
 suro.ubaya.ac.id
 syd.mirror.rackspace.com
