@@ -2,6 +2,7 @@ america.mirror.pkgbuild.com
 appuals.com
 arch-mirror.cloud.louifox.house
 arch-mirror.wtako.net
+arch.harald.ga
 arch.hu.fo
 arch.jensgutermuth.de
 arch.jeweet.net
@@ -15,6 +16,7 @@ arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.ivo.st
 arch.mirror.square-r00t.net
+arch.mirror.winslow.cloud
 arch.mirror.zachlge.org
 arch.mirrors.lavatech.top
 arch.mirrors.pair.com
