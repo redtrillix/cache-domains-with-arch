@@ -2,7 +2,6 @@ america.mirror.pkgbuild.com
 appuals.com
 arch-mirror.cloud.louifox.house
 arch-mirror.wtako.net
-arch.harald.ga
 arch.hu.fo
 arch.jensgutermuth.de
 arch.jeweet.net
@@ -264,6 +263,7 @@ mirror.kumi.systems
 mirror.labkom.id
 mirror.lagoon.nc
 mirror.lastmikoi.net
+mirror.lcarilla.de
 mirror.lebedinets.ru
 mirror.librelabucm.org
 mirror.lnx.sk
