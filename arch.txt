@@ -324,6 +324,7 @@ mirror.siena.edu
 mirror.smith.geek.nz
 mirror.spaceint.fr
 mirror.srv.fail
+mirror.stephanie.is
 mirror.stephen304.com
 mirror.stjschools.org
 mirror.sunred.org
