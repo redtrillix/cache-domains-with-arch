@@ -22,6 +22,7 @@ arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
 arch.petarmaric.com
+arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
@@ -458,7 +459,6 @@ ord.mirror.rackspace.com
 os.codefionn.eu
 ossmirror.mycloud.services
 packages.oth-regensburg.de
-phinau.de
 piotrkosoft.net
 pkg.adfinis.com
 pkg.fef.moe
