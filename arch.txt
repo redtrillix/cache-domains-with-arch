@@ -236,6 +236,7 @@ mirror.guillaumea.fr
 mirror.hackingand.coffee
 mirror.hodgepodge.dev
 mirror.host.ag
+mirror.hostart.az
 mirror.hoster.kz
 mirror.hosthink.net
 mirror.hostiran.ir
