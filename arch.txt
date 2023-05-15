@@ -75,6 +75,7 @@ archlinux.ourhome.kiwi
 archlinux.pop-es.rnp.br
 archlinux.qontinuum.space
 archlinux.rezopole.net
+archlinux.richard-neumann.de
 archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
@@ -179,6 +180,7 @@ mirror.2degrees.nz
 mirror.4v1.in
 mirror.5i.fi
 mirror.aarnet.edu.au
+mirror.adectra.com
 mirror.aktkn.sg
 mirror.albony.xyz
 mirror.alwyzon.net
@@ -364,7 +366,6 @@ mirror.ungleich.ch
 mirror.united-gameserver.de
 mirror.uta.edu.ec
 mirror.veriteknik.net.tr
-mirror.vishmak.in
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wdc1.us.leaseweb.net
@@ -451,6 +452,7 @@ mirrors.urbanwave.co.za
 mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.viflcraft.top
+mirrors.vishnetwork.in
 mirrors.wale.id.au
 mirrors.wsyu.edu.cn
 mirrors.xjtu.edu.cn
@@ -463,7 +465,10 @@ mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
 nnenix.mm.fcix.net
+nocix.mm.fcix.net
 nova.quantum-mirror.hu
+ohioix.mm.fcix.net
+opencolo.mm.fcix.net
 ord.mirror.rackspace.com
 os.codefionn.eu
 ossmirror.mycloud.services
@@ -491,6 +496,7 @@ sydney.mirror.pkgbuild.com
 theswissbay.ch
 tux.rainside.sk
 uvermont.mm.fcix.net
+volico.mm.fcix.net
 vpsmurah.jagoanhosting.com
 wcbmedia.io:8000
 www.caco.ic.unicamp.br
