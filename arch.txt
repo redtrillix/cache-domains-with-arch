@@ -245,6 +245,7 @@ mirror.gi.co.id
 mirror.gnomus.de
 mirror.guillaumea.fr
 mirror.hackingand.coffee
+mirror.hnd.cl
 mirror.hodgepodge.dev
 mirror.host.ag
 mirror.hostart.az
