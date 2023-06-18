@@ -101,6 +101,7 @@ distro.ibiblio.org
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 europe.mirror.pkgbuild.com
+europe2.mirror.pkgbuild.com
 f.archlinuxvn.org
 fastmirror.pp.ua
 forksystems.mm.fcix.net
