@@ -101,7 +101,6 @@ distro.ibiblio.org
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 europe.mirror.pkgbuild.com
-europe2.mirror.pkgbuild.com
 f.archlinuxvn.org
 fastmirror.pp.ua
 forksystems.mm.fcix.net
@@ -165,6 +164,7 @@ kebo.pens.ac.id
 linorg.usp.br
 linux.rz.rub.de
 lon.mirror.rackspace.com
+london.mirror.pkgbuild.com
 lysakermoen.com
 m.lqy.me
 md.mirrors.hacktegic.com
