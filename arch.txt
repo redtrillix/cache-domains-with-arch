@@ -82,7 +82,6 @@ arlm.tyzoid.com
 artfiles.org
 asia.mirror.pkgbuild.com
 at.arch.mirror.kescher.at
-br.mirror.archlinux-br.org
 ca.us.mirror.archlinux-br.org
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
@@ -189,9 +188,10 @@ mirror.archlinux.no
 mirror.archlinux.tw
 mirror.arctic.lol
 mirror.arizona.edu
-mirror.arvancloud.com
+mirror.arvancloud.ir
 mirror.ava.dev
 mirror.bahnhof.net
+mirror.barata.pt
 mirror.bardia.tech
 mirror.bethselamin.de
 mirror.bizflycloud.vn
@@ -231,7 +231,6 @@ mirror.ette.biz
 mirror.f4st.host
 mirror.faizuladib.com
 mirror.fcix.net
-mirror.flokinet.net
 mirror.fossable.org
 mirror.fra10.de.leaseweb.net
 mirror.fsmg.org.nz
@@ -413,6 +412,7 @@ mirrors.hostico.ro
 mirrors.ims.nksc.lt
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
+mirrors.jtremesay.org
 mirrors.kernel.org
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
@@ -437,13 +437,13 @@ mirrors.ocf.berkeley.edu
 mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
+mirrors.qlu.edu.cn
 mirrors.qontinuum.space
 mirrors.radwebhosting.com
 mirrors.rit.edu
 mirrors.rutgers.edu
 mirrors.shanghaitech.edu.cn
 mirrors.sjtug.sjtu.edu.cn
-mirrors.slaanesh.org
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
@@ -465,6 +465,7 @@ mirrors.xtom.ee
 mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
+muug.ca
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
@@ -484,10 +485,12 @@ repo.endpoint.ml
 repo.greeklug.gr
 repo.ialab.dsu.edu
 repo.iut.ac.ir
+repo.jing.rocks
 repo.miserver.it.umich.edu
 repo.skni.umcs.pl
 repo.slithery.uk
 ridgewireless.mm.fcix.net
+ro.mirror.flokinet.net
 seoul.mirror.pkgbuild.com
 southfront.mm.fcix.net
 super.quantum-mirror.hu
