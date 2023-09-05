@@ -49,7 +49,6 @@ archlinux.mirror.colo-serv.net
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
 archlinux.mirror.iphh.net
-archlinux.mirror.kangaroot.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
 archlinux.mirror.net.in
@@ -182,7 +181,6 @@ mirror.ams1.nl.leaseweb.net
 mirror.anigil.com
 mirror.anquan.cl
 mirror.archlinux.bg
-mirror.archlinux.cl
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
@@ -199,6 +197,7 @@ mirror.bytemark.co.uk
 mirror.cc.columbia.edu
 mirror.cedia.org.ec
 mirror.cedille.club
+mirror.citrahost.com
 mirror.cj2.nl
 mirror.clarkson.edu
 mirror.clientvps.com
@@ -251,7 +250,6 @@ mirror.hostiran.ir
 mirror.hostup.org
 mirror.i3d.net
 mirror.ibakerserver.pt
-mirror.ibcp.fr
 mirror.ihost.md
 mirror.infernocomms.net
 mirror.informatik.tu-freiberg.de
@@ -356,14 +354,12 @@ mirror.tmmworkshop.com
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.ubrco.de
-mirror.ufam.edu.br
 mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.undisclose.de
 mirror.ungleich.ch
 mirror.united-gameserver.de
-mirror.uta.edu.ec
 mirror.veriteknik.net.tr
 mirror.vinehost.net
 mirror.vpsfree.cz
@@ -380,7 +376,7 @@ mirror.yal.sl-chat.ru
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
-mirror.zackmyers.io
+mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.sandyriver.net
 mirror2.totbb.net
@@ -456,7 +452,6 @@ mirrors.urbanwave.co.za
 mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.viflcraft.top
-mirrors.wale.id.au
 mirrors.wsyu.edu.cn
 mirrors.xjtu.edu.cn
 mirrors.xmission.com
