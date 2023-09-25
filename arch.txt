@@ -507,7 +507,6 @@ www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
 www.mirrorservice.org
-www.ratenzahlung.de
 za.mirror.archlinux-br.org
 ziply.mm.fcix.net
 zxcvfdsa.com
