@@ -1,6 +1,5 @@
 america.mirror.pkgbuild.com
 appuals.com
-arch-mirror.cloud.louifox.house
 arch-mirror.wtako.net
 arch.hu.fo
 arch.jensgutermuth.de
@@ -247,6 +246,7 @@ mirror.hoster.kz
 mirror.hosthink.net
 mirror.hostiran.ir
 mirror.hostup.org
+mirror.hugo-betrugo.de
 mirror.i3d.net
 mirror.ibakerserver.pt
 mirror.ihost.md
@@ -468,6 +468,7 @@ nl.mirror.flokinet.net
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
+nox.panibrez.com
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
 ord.mirror.rackspace.com
