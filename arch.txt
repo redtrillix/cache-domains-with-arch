@@ -174,7 +174,7 @@ mirror.5i.fi
 mirror.aarnet.edu.au
 mirror.adectra.com
 mirror.aktkn.sg
-mirror.albony.xyz
+mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -257,6 +257,7 @@ mirror.internode.on.net
 mirror.is.co.za
 mirror.isoc.org.il
 mirror.it4i.cz
+mirror.its-tps.fr
 mirror.its.dal.ca
 mirror.iusearchbtw.nl
 mirror.jingk.ai
@@ -278,6 +279,7 @@ mirror.lnx.sk
 mirror.lty.me
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
+mirror.maa.albony.in
 mirror.mangohost.net
 mirror.math.princeton.edu
 mirror.metalgamer.eu
@@ -433,6 +435,7 @@ mirrors.njupt.edu.cn
 mirrors.nxtgen.com
 mirrors.nxthost.com
 mirrors.ocf.berkeley.edu
+mirrors.opensource.is
 mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
