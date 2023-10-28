@@ -1,6 +1,7 @@
 america.mirror.pkgbuild.com
 appuals.com
 arch-mirror.wtako.net
+arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
 arch.jeweet.net
@@ -178,7 +179,6 @@ mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
-mirror.archlinux.bg
 mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
@@ -478,7 +478,6 @@ ord.mirror.rackspace.com
 os.codefionn.eu
 ossmirror.mycloud.services
 packages.oth-regensburg.de
-pawe.me
 piotrkosoft.net
 pkg.adfinis.com
 pkg.fef.moe
