@@ -383,7 +383,6 @@ mirror.yuki.net.uk
 mirror.zackmyers.io
 mirror1.sox.rs
 mirror2.evolution-host.com
-mirror2.sandyriver.net
 mirror2.totbb.net
 mirrors.163.com
 mirrors.abhy.me
