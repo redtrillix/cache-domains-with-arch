@@ -300,6 +300,7 @@ mirror.mirohost.net
 mirror.morgan.kr
 mirror.moson.org
 mirror.nak-mci.ir
+mirror.nekos.host
 mirror.neostrada.nl
 mirror.netcologne.de
 mirror.netweaver.uk
@@ -344,7 +345,6 @@ mirror.siwoo.org
 mirror.smith.geek.nz
 mirror.spaceint.fr
 mirror.srv.fail
-mirror.stephanie.is
 mirror.stjschools.org
 mirror.sunred.org
 mirror.surf
@@ -399,6 +399,7 @@ mirrors.aggregate.org
 mirrors.aliyun.com
 mirrors.atviras.lt
 mirrors.bfsu.edu.cn
+mirrors.bjg.at
 mirrors.bloomu.edu
 mirrors.cat.net
 mirrors.cat.pdx.edu
