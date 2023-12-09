@@ -287,7 +287,6 @@ mirror.lnx.sk
 mirror.lty.me
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
-mirror.maa.albony.in
 mirror.mangohost.net
 mirror.math.princeton.edu
 mirror.metalgamer.eu
@@ -365,7 +364,6 @@ mirror.truenetwork.ru
 mirror.tux.si
 mirror.ubrco.de
 mirror.ufam.edu.br
-mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.undisclose.de
