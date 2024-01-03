@@ -246,7 +246,6 @@ mirror.gi.co.id
 mirror.gnomus.de
 mirror.guillaumea.fr
 mirror.hackingand.coffee
-mirror.hel.sl-chat.ru
 mirror.hnd.cl
 mirror.hodgepodge.dev
 mirror.host.ag
@@ -348,7 +347,6 @@ mirror.spaceint.fr
 mirror.srv.fail
 mirror.stjschools.org
 mirror.sunred.org
-mirror.surf
 mirror.sysa.tech
 mirror.system.is
 mirror.t-home.mk
@@ -383,7 +381,6 @@ mirror.wuki.li
 mirror.xenyth.net
 mirror.xeonbd.com
 mirror.xtom.com.hk
-mirror.yal.sl-chat.ru
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
@@ -503,6 +500,7 @@ repo.jing.rocks
 repo.miserver.it.umich.edu
 repo.skni.umcs.pl
 repo.slithery.uk
+repository.su
 ridgewireless.mm.fcix.net
 ro.mirror.flokinet.net
 seoul.mirror.pkgbuild.com
