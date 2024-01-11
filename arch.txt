@@ -117,6 +117,7 @@ ftp.hosteurope.de
 ftp.icm.edu.pl
 ftp.iinet.net.au
 ftp.jaist.ac.jp
+ftp.kaist.ac.kr
 ftp.lanet.kr
 ftp.linux.cz
 ftp.linux.org.tr
@@ -212,6 +213,7 @@ mirror.cloroformo.org
 mirror.cloudweeb.com
 mirror.cmt.de
 mirror.cov.ukservers.com
+mirror.cpsc.ucalgary.ca
 mirror.cs.pitt.edu
 mirror.cs.vt.edu
 mirror.csclub.uwaterloo.ca
@@ -421,6 +423,7 @@ mirrors.ims.nksc.lt
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
 mirrors.jtremesay.org
+mirrors.jxust.edu.cn
 mirrors.kernel.org
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
