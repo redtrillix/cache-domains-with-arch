@@ -322,7 +322,6 @@ mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
 mirror.poliwangi.ac.id
 mirror.powerfly.ca
-mirror.premi.st
 mirror.ps.kz
 mirror.pseudoform.org
 mirror.puzzle.ch
