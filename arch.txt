@@ -98,6 +98,7 @@ distro.ibiblio.org
 dl.ptse.host
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
+elmirror.cl
 europe.mirror.pkgbuild.com
 fastmirror.pp.ua
 forksystems.mm.fcix.net
@@ -284,6 +285,7 @@ mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.lebedinets.ru
+mirror.leitecastro.com
 mirror.librelabucm.org
 mirror.lnx.sk
 mirror.lty.me
@@ -420,6 +422,7 @@ mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.ims.nksc.lt
+mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
 mirrors.jtremesay.org
@@ -478,6 +481,7 @@ mirrors.xtom.nl
 mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
+ncuesaweb.ncue.edu.tw
 nl.mirror.flokinet.net
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
