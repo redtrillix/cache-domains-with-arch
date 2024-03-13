@@ -234,6 +234,7 @@ mirror.dogado.de
 mirror.easyname.at
 mirror.efect.ro
 mirror.eloteam.tk
+mirror.erickochen.nl
 mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.ette.biz
