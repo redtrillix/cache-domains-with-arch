@@ -233,6 +233,7 @@ mirror.dkm.cz
 mirror.dogado.de
 mirror.easyname.at
 mirror.efect.ro
+mirror.elightcap.com
 mirror.eloteam.tk
 mirror.erickochen.nl
 mirror.es.its.nyu.edu
@@ -321,6 +322,7 @@ mirror.osbeck.com
 mirror.pagenotfound.de
 mirror.papua.go.id
 mirror.phx1.us.spryservers.net
+mirror.pilotfiber.com
 mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
 mirror.poliwangi.ac.id
