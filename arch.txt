@@ -39,7 +39,6 @@ archlinux.cu.be
 archlinux.datagr.am
 archlinux.grena.ge
 archlinux.homeinfo.de
-archlinux.honkgong.info
 archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
@@ -68,7 +67,6 @@ archlinux.mivzakim.net
 archlinux.nautile.nc
 archlinux.ourhome.kiwi
 archlinux.pop-es.rnp.br
-archlinux.rezopole.net
 archlinux.richard-neumann.de
 archlinux.thaller.ws
 archlinux.uib.no
@@ -372,6 +370,7 @@ mirror.truenetwork.ru
 mirror.tux.si
 mirror.ubrco.de
 mirror.ufam.edu.br
+mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.undisclose.de
@@ -460,6 +459,7 @@ mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.qlu.edu.cn
 mirrors.qontinuum.space
+mirrors.qvq.net.cn
 mirrors.radwebhosting.com
 mirrors.rit.edu
 mirrors.rutgers.edu
