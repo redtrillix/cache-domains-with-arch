@@ -13,7 +13,7 @@ arch.mcstrugs.org
 arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
-arch.mirror.ivo.st
+arch.mirror.k0.ae
 arch.mirror.square-r00t.net
 arch.mirror.winslow.cloud
 arch.mirror.zachlge.org
