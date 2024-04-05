@@ -181,6 +181,7 @@ mirror.2degrees.nz
 mirror.4v1.in
 mirror.5i.fi
 mirror.aarnet.edu.au
+mirror.accuris.ca
 mirror.adectra.com
 mirror.aktkn.sg
 mirror.albony.in
@@ -275,6 +276,7 @@ mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
 mirror.kamtv.ru
+mirror.kirbee.tech
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
