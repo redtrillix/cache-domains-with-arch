@@ -26,6 +26,7 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
+arch.takehiko.pl
 arch.unixpeople.org
 arch.yhtez.xyz
 arch.yourlabs.org
@@ -307,7 +308,6 @@ mirror.morgan.kr
 mirror.moson.org
 mirror.nag.albony.in
 mirror.nak-mci.ir
-mirror.nekos.host
 mirror.neostrada.nl
 mirror.netcologne.de
 mirror.netweaver.uk
@@ -352,6 +352,7 @@ mirror.siwoo.org
 mirror.smith.geek.nz
 mirror.spaceint.fr
 mirror.srv.fail
+mirror.st2projects.com
 mirror.stjschools.org
 mirror.sunred.org
 mirror.sysa.tech
@@ -369,6 +370,7 @@ mirror.tiguinet.net
 mirror.tmmworkshop.com
 mirror.truenetwork.ru
 mirror.tux.si
+mirror.twds.com.tw
 mirror.ubrco.de
 mirror.ufam.edu.br
 mirror.ufro.cl
