@@ -8,7 +8,6 @@ arch.jeweet.net
 arch.jsc.mx
 arch.juline.tech
 arch.kurdy.org
-arch.kyberorg.fi
 arch.mcstrugs.org
 arch.midov.pl
 arch.mirror.constant.com
@@ -93,7 +92,6 @@ depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
-dl.ptse.host
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 elmirror.cl
@@ -329,6 +327,7 @@ mirror.powerfly.ca
 mirror.ps.kz
 mirror.pseudoform.org
 mirror.puzzle.ch
+mirror.qctronics.com
 mirror.quantum5.ca
 mirror.rackspace.com
 mirror.redrock.team
