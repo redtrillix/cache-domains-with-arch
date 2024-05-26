@@ -208,6 +208,7 @@ mirror.clientvps.com
 mirror.cloroformo.org
 mirror.cloudweeb.com
 mirror.cmt.de
+mirror.colonelhosting.com
 mirror.cov.ukservers.com
 mirror.cpsc.ucalgary.ca
 mirror.cs.pitt.edu
@@ -498,6 +499,7 @@ os.codefionn.eu
 ossmirror.mycloud.services
 packages.oth-regensburg.de
 piotrkosoft.net
+pkg.adfinis-on-exoscale.ch
 pkg.adfinis.com
 pkg.fef.moe
 plug-mirror.rcac.purdue.edu
