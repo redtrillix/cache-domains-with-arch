@@ -234,6 +234,7 @@ mirror.eloteam.tk
 mirror.erickochen.nl
 mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
+mirror.eto.dev
 mirror.ette.biz
 mirror.f4st.host
 mirror.faizuladib.com
@@ -533,6 +534,7 @@ wcbmedia.io:8000
 www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
+www.miraa.jp
 www.mirrorservice.org
 za.mirror.archlinux-br.org
 ziply.mm.fcix.net
