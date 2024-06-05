@@ -229,9 +229,7 @@ mirror.dkm.cz
 mirror.dogado.de
 mirror.easyname.at
 mirror.efect.ro
-mirror.elightcap.com
 mirror.eloteam.tk
-mirror.erickochen.nl
 mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.eto.dev
@@ -427,9 +425,11 @@ mirrors.go.ro
 mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
+mirrors.hust.edu.cn
 mirrors.ims.nksc.lt
 mirrors.iu13.net
 mirrors.janbruckner.de
+mirrors.jcut.edu.cn
 mirrors.jlu.edu.cn
 mirrors.jtremesay.org
 mirrors.jxust.edu.cn
