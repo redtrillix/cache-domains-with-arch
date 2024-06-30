@@ -20,6 +20,7 @@ arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
+arch.niranjan.co
 arch.petarmaric.com
 arch.phinau.de
 arch.sakamoto.pl
@@ -73,7 +74,6 @@ archlinux.za.mirror.allworldit.com
 archlinux.zepto.cloud
 archmirror.hbit.sztaki.hu
 archmirror.hogwarts.fr
-archmirror.it
 archmirror.xyz
 archmirror1.octyl.net
 arlm.tyzoid.com
@@ -161,6 +161,7 @@ kr.mirrors.cicku.me
 lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
+linuxromania.ro
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
 lysakermoen.com
@@ -235,7 +236,6 @@ mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.eto.dev
 mirror.ette.biz
-mirror.f4st.host
 mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
@@ -459,6 +459,7 @@ mirrors.nxtgen.com
 mirrors.nxthost.com
 mirrors.ocf.berkeley.edu
 mirrors.opensource.is
+mirrors.pablonara.com
 mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
