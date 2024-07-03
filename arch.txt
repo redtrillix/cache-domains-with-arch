@@ -359,7 +359,6 @@ mirror.tarellia.net
 mirror.telepoint.bg
 mirror.telkomuniversity.ac.id
 mirror.terrahost.no
-mirror.the-repo.org
 mirror.theash.xyz
 mirror.thekinrar.fr
 mirror.theo546.fr
