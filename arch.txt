@@ -80,9 +80,12 @@ arlm.tyzoid.com
 artfiles.org
 asia.mirror.pkgbuild.com
 at.arch.mirror.kescher.at
+at.mirrors.cicku.me
 au.mirrors.cicku.me
+br.mirrors.cicku.me
 ca.mirrors.cicku.me
 ca.us.mirror.archlinux-br.org
+ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
 de.arch.mirror.kescher.at
@@ -94,9 +97,11 @@ distro.ibiblio.org
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 elmirror.cl
+es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
 fastmirror.pp.ua
 forksystems.mm.fcix.net
+fr.mirrors.cicku.me
 free.nchc.org.tw
 ftp-stud.hs-esslingen.de
 ftp.agdsn.de
@@ -142,6 +147,7 @@ ftp.vectranet.pl
 ftp.wrz.de
 ftp.yzu.edu.tw
 ftpmirror.infania.net
+gb.mirrors.cicku.me
 geo.mirror.pkgbuild.com
 glua.ua.pt
 gluttony.sin.cvut.cz
@@ -154,6 +160,7 @@ in-mirror.garudalinux.org
 in.mirrors.cicku.me
 irltoolkit.mm.fcix.net
 is.mirror.flokinet.net
+it.mirrors.cicku.me
 jp.mirrors.cicku.me
 kacabenggala.uny.ac.id
 kebo.pens.ac.id
@@ -329,6 +336,7 @@ mirror.puzzle.ch
 mirror.qctronics.com
 mirror.quantum5.ca
 mirror.rackspace.com
+mirror.raiolanetworks.com
 mirror.redrock.team
 mirror.reisenbauer.ee
 mirror.repository.id
@@ -426,6 +434,7 @@ mirrors.go.ro
 mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
+mirrors.huongnguyen.dev
 mirrors.hust.edu.cn
 mirrors.ims.nksc.lt
 mirrors.iu13.net
@@ -493,6 +502,7 @@ mnvoip.mm.fcix.net
 muug.ca
 ncuesaweb.ncue.edu.tw
 nl.mirror.flokinet.net
+nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
@@ -521,6 +531,8 @@ repo.slithery.uk
 repository.su
 ridgewireless.mm.fcix.net
 ro.mirror.flokinet.net
+ru.mirrors.cicku.me
+sa.mirrors.cicku.me
 seoul.mirror.pkgbuild.com
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
@@ -529,6 +541,8 @@ syd.mirror.rackspace.com
 sydney.mirror.pkgbuild.com
 theswissbay.ch
 tux.rainside.sk
+tw.mirrors.cicku.me
+us.arch.niranjan.co
 us.mirrors.cicku.me
 uvermont.mm.fcix.net
 volico.mm.fcix.net
@@ -540,5 +554,6 @@ www.gutscheindrache.com
 www.miraa.jp
 www.mirrorservice.org
 za.mirror.archlinux-br.org
+za.mirrors.cicku.me
 ziply.mm.fcix.net
 zxcvfdsa.com
