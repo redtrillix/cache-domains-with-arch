@@ -1,3 +1,4 @@
+al.arch.niranjan.co
 america.mirror.pkgbuild.com
 appuals.com
 arch-mirror.wtako.net
@@ -89,6 +90,7 @@ ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
 de.arch.mirror.kescher.at
+de.arch.niranjan.co
 de.mirrors.cicku.me
 depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
@@ -100,6 +102,7 @@ elmirror.cl
 es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
 fastmirror.pp.ua
+files.hadiko.de
 forksystems.mm.fcix.net
 fr.mirrors.cicku.me
 free.nchc.org.tw
@@ -206,6 +209,7 @@ mirror.bardia.tech
 mirror.bethselamin.de
 mirror.bizflycloud.vn
 mirror.bouwhuis.network
+mirror.braindrainlan.nu
 mirror.bytemark.co.uk
 mirror.cc.columbia.edu
 mirror.cedia.org.ec
