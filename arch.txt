@@ -171,7 +171,6 @@ kr.mirrors.cicku.me
 lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
-linuxromania.ro
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
 lysakermoen.com
@@ -285,7 +284,6 @@ mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
 mirror.kamtv.ru
-mirror.kirbee.tech
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
@@ -479,6 +477,7 @@ mirrors.qlu.edu.cn
 mirrors.qontinuum.space
 mirrors.qvq.net.cn
 mirrors.radwebhosting.com
+mirrors.reitarovskyi.tech
 mirrors.rit.edu
 mirrors.rutgers.edu
 mirrors.shanghaitech.edu.cn
