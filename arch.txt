@@ -364,6 +364,7 @@ mirror.stjschools.org
 mirror.sunred.org
 mirror.sysa.tech
 mirror.system.is
+mirror.syxpi.fr
 mirror.t-home.mk
 mirror.tarellia.net
 mirror.telepoint.bg
