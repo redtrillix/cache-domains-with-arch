@@ -27,7 +27,6 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
-arch.takehiko.pl
 arch.unixpeople.org
 arch.yhtez.xyz
 arch.yourlabs.org
@@ -38,6 +37,7 @@ archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
 archlinux.cu.be
 archlinux.datagr.am
+archlinux.doridian.net
 archlinux.grena.ge
 archlinux.homeinfo.de
 archlinux.interhost.co.il
