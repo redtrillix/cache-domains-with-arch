@@ -9,7 +9,6 @@ arch.jeweet.net
 arch.jsc.mx
 arch.juline.tech
 arch.kurdy.org
-arch.mcstrugs.org
 arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
