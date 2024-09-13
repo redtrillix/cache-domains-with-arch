@@ -1,6 +1,7 @@
 al.arch.niranjan.co
 america.mirror.pkgbuild.com
 appuals.com
+arch-mirror.marcusspencer.xyz:8080
 arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
@@ -26,6 +27,7 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
+arch.syxpi.fr
 arch.unixpeople.org
 arch.yhtez.xyz
 arch.yourlabs.org
@@ -97,6 +99,7 @@ dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
+elda.asgardius.company
 elmirror.cl
 es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
@@ -170,6 +173,7 @@ kr.mirrors.cicku.me
 lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
+linuxromania.ro
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
 lysakermoen.com
@@ -256,6 +260,7 @@ mirror.gi.co.id
 mirror.gnomus.de
 mirror.group.one
 mirror.guillaumea.fr
+mirror.hasphetica.win
 mirror.hnd.cl
 mirror.hodgepodge.dev
 mirror.host.ag
@@ -350,6 +355,7 @@ mirror.sahil.world
 mirror.satis-faction.de
 mirror.scd31.com
 mirror.selfnet.de
+mirror.server.net
 mirror.serverion.com
 mirror.sfo12.us.leaseweb.net
 mirror.sg.gs
@@ -363,7 +369,6 @@ mirror.stjschools.org
 mirror.sunred.org
 mirror.sysa.tech
 mirror.system.is
-mirror.syxpi.fr
 mirror.t-home.mk
 mirror.tarellia.net
 mirror.telepoint.bg
@@ -473,7 +478,6 @@ mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.qlu.edu.cn
-mirrors.qontinuum.space
 mirrors.qvq.net.cn
 mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
@@ -493,6 +497,7 @@ mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.viflcraft.top
 mirrors.wsyu.edu.cn
+mirrors.xhosts.co.uk
 mirrors.xjtu.edu.cn
 mirrors.xmission.com
 mirrors.xtom.com
