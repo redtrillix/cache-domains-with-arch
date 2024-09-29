@@ -235,7 +235,6 @@ mirror.cyberbits.asia
 mirror.cyberbits.eu
 mirror.cybersecurity.nmt.edu
 mirror.dal10.us.leaseweb.net
-mirror.darklinux.uk
 mirror.datacenter.by
 mirror.dc.uz
 mirror.digitalnova.at
@@ -245,7 +244,6 @@ mirror.dogado.de
 mirror.easyname.at
 mirror.efect.ro
 mirror.eloteam.tk
-mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.eto.dev
 mirror.ette.biz
@@ -461,7 +459,6 @@ mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
 mirrors.neterra.net
-mirrors.netix.net
 mirrors.neusoft.edu.cn
 mirrors.nguyenhoang.cloud
 mirrors.nic.cz
