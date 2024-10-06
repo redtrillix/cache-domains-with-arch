@@ -458,7 +458,6 @@ mirrors.mit.edu
 mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
-mirrors.neterra.net
 mirrors.neusoft.edu.cn
 mirrors.nguyenhoang.cloud
 mirrors.nic.cz
