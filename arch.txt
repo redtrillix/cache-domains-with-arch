@@ -479,6 +479,7 @@ mirrors.radwebhosting.com
 mirrors.reitarovskyi.tech
 mirrors.rit.edu
 mirrors.rutgers.edu
+mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.sjtug.sjtu.edu.cn
 mirrors.sonic.net
