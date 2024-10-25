@@ -38,6 +38,7 @@ archlinux.cs.nycu.edu.tw
 archlinux.cu.be
 archlinux.datagr.am
 archlinux.doridian.net
+archlinux.gay
 archlinux.grena.ge
 archlinux.homeinfo.de
 archlinux.interhost.co.il
@@ -102,6 +103,7 @@ elda.asgardius.company
 elmirror.cl
 es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
+f.matthieul.dev
 fastmirror.pp.ua
 files.hadiko.de
 forksystems.mm.fcix.net
@@ -524,6 +526,7 @@ pkg.fef.moe
 plug-mirror.rcac.purdue.edu
 quantum-mirror.hu
 repo.br.ee
+repo.c48.uk
 repo.greeklug.gr
 repo.hyron.dev
 repo.ialab.dsu.edu
