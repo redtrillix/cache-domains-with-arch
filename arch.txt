@@ -81,6 +81,7 @@ archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
 asia.mirror.pkgbuild.com
+at-vie.soulharsh007.dev
 at.arch.mirror.kescher.at
 at.mirrors.cicku.me
 au.mirrors.cicku.me
@@ -460,6 +461,7 @@ mirrors.mit.edu
 mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
+mirrors.nepalicloud.com
 mirrors.neusoft.edu.cn
 mirrors.nguyenhoang.cloud
 mirrors.nic.cz
