@@ -543,7 +543,6 @@ ro.arch.niranjan.co
 ro.mirror.flokinet.net
 ru.mirrors.cicku.me
 sa.mirrors.cicku.me
-seoul.mirror.pkgbuild.com
 sg.arch.niranjan.co
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
