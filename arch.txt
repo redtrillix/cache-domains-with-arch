@@ -84,6 +84,7 @@ asia.mirror.pkgbuild.com
 at-vie.soulharsh007.dev
 at.arch.mirror.kescher.at
 at.mirrors.cicku.me
+au.arch.niranjan.co
 au.mirrors.cicku.me
 br.mirrors.cicku.me
 ca.mirrors.cicku.me
