@@ -1,6 +1,7 @@
 al.arch.niranjan.co
 america.mirror.pkgbuild.com
 appuals.com
+arch-mirror.marcusspencer.xyz:4443
 arch-mirror.marcusspencer.xyz:8080
 arch-mirror.wtako.net
 arch.goober.cloud
@@ -13,10 +14,10 @@ arch.kurdy.org
 arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
+arch.mirror.hyperbit.it
 arch.mirror.k0.ae
 arch.mirror.square-r00t.net
 arch.mirror.winslow.cloud
-arch.mirror.zachlge.org
 arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
@@ -262,6 +263,7 @@ mirror.gi.co.id
 mirror.gnomus.de
 mirror.group.one
 mirror.guillaumea.fr
+mirror.hakimi-soft.ir
 mirror.hasphetica.win
 mirror.hnd.cl
 mirror.hodgepodge.dev
