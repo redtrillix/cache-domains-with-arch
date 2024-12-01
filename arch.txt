@@ -93,6 +93,7 @@ ca.us.mirror.archlinux-br.org
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
+de-nue.soulharsh007.dev
 de.arch.mirror.kescher.at
 de.arch.niranjan.co
 de.mirrors.cicku.me
@@ -178,7 +179,6 @@ kr.mirrors.cicku.me
 lidsol.fi-b.unam.mx
 linorg.usp.br
 linux.rz.rub.de
-linuxromania.ro
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
 lysakermoen.com
@@ -255,6 +255,7 @@ mirror.ette.biz
 mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
+mirror.fossindia.ovh
 mirror.fra10.de.leaseweb.net
 mirror.fsmg.org.nz
 mirror.fsrv.services
@@ -271,6 +272,7 @@ mirror.host.ag
 mirror.hostart.az
 mirror.hoster.kz
 mirror.hosthink.net
+mirror.hostiko.network
 mirror.hostiran.ir
 mirror.hostup.org
 mirror.hugo-betrugo.de
@@ -288,6 +290,7 @@ mirror.its-tps.fr
 mirror.its.dal.ca
 mirror.iusearchbtw.nl
 mirror.jingk.ai
+mirror.jonas-prz.be
 mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
@@ -492,6 +495,7 @@ mirrors.sjtug.sjtu.edu.cn
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
+mirrors.twilight.fyi
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
 mirrors.uni-plovdiv.net
