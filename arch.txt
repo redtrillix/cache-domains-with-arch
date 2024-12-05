@@ -449,7 +449,6 @@ mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.huongnguyen.dev
 mirrors.hust.edu.cn
-mirrors.ims.nksc.lt
 mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jcut.edu.cn
@@ -559,6 +558,7 @@ sydney.mirror.pkgbuild.com
 theswissbay.ch
 tux.rainside.sk
 tw.mirrors.cicku.me
+us-1.arch-linux.mirror.shieldblaze.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
 us.mirrors.cicku.me
