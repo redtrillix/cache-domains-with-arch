@@ -264,6 +264,7 @@ mirror.gi.co.id
 mirror.gnomus.de
 mirror.group.one
 mirror.guillaumea.fr
+mirror.hafeezh.com
 mirror.hakimi-soft.ir
 mirror.hasphetica.win
 mirror.hnd.cl
