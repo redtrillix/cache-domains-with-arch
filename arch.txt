@@ -572,6 +572,7 @@ www.gtlib.gatech.edu
 www.gutscheindrache.com
 www.miraa.jp
 www.mirrorservice.org
+www.sooftware.com
 za.mirror.archlinux-br.org
 za.mirrors.cicku.me
 ziply.mm.fcix.net
