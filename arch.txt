@@ -338,6 +338,7 @@ mirror.orbit-os.com
 mirror.osbeck.com
 mirror.pagenotfound.de
 mirror.papua.go.id
+mirror.peeres-telecom.fr
 mirror.phx1.us.spryservers.net
 mirror.pilotfiber.com
 mirror.pit.teraswitch.com
@@ -557,6 +558,7 @@ super.quantum-mirror.hu
 syd.mirror.rackspace.com
 sydney.mirror.pkgbuild.com
 theswissbay.ch
+tr.arch.niranjan.co
 tux.rainside.sk
 tw.mirrors.cicku.me
 us-1.arch-linux.mirror.shieldblaze.com
