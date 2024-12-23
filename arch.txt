@@ -207,6 +207,7 @@ mirror.archlinux.ikoula.com
 mirror.archlinux.no
 mirror.archlinux.tw
 mirror.arctic.lol
+mirror.aria-on-the-planet.es
 mirror.arizona.edu
 mirror.arvancloud.ir
 mirror.ava.dev
@@ -421,7 +422,6 @@ mirror2.evolution-host.com
 mirror2.sl-chat.ru
 mirror2.totbb.net
 mirror3.sl-chat.ru
-mirroronet.pl
 mirrors.163.com
 mirrors.abhy.me
 mirrors.acm.wpi.edu
