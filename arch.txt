@@ -198,6 +198,7 @@ mirror.aarnet.edu.au
 mirror.accum.se
 mirror.accuris.ca
 mirror.adectra.com
+mirror.akane.network
 mirror.aktkn.sg
 mirror.albony.in
 mirror.alwyzon.net
@@ -305,7 +306,6 @@ mirror.labkom.id
 mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
-mirror.lebedinets.ru
 mirror.leitecastro.com
 mirror.librelabucm.org
 mirror.lnx.sk
@@ -415,6 +415,7 @@ mirror.xtom.com.hk
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
+mirror.yuri.so
 mirror.zackmyers.io
 mirror1.sl-chat.ru
 mirror1.sox.rs
