@@ -195,6 +195,7 @@ mirror.2degrees.nz
 mirror.4v1.in
 mirror.5i.fi
 mirror.aarnet.edu.au
+mirror.abderraziq.com
 mirror.accum.se
 mirror.accuris.ca
 mirror.adectra.com
@@ -259,6 +260,7 @@ mirror.fcix.net
 mirror.fossable.org
 mirror.fossindia.ovh
 mirror.fra10.de.leaseweb.net
+mirror.freedif.org
 mirror.fsmg.org.nz
 mirror.fsrv.services
 mirror.funami.tech
@@ -268,6 +270,7 @@ mirror.group.one
 mirror.guillaumea.fr
 mirror.hafeezh.com
 mirror.hakimi-soft.ir
+mirror.hashy0917.net
 mirror.hasphetica.win
 mirror.hnd.cl
 mirror.hodgepodge.dev
@@ -337,6 +340,7 @@ mirror.oldsql.cc
 mirror.onevip.mk
 mirror.orbit-os.com
 mirror.osbeck.com
+mirror.ourhost.az
 mirror.pagenotfound.de
 mirror.papua.go.id
 mirror.peeres-telecom.fr
@@ -452,6 +456,7 @@ mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.huongnguyen.dev
 mirrors.hust.edu.cn
+mirrors.ic.unicamp.br
 mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jcut.edu.cn
