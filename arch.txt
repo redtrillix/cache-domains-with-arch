@@ -2,7 +2,6 @@ al.arch.niranjan.co
 america.mirror.pkgbuild.com
 appuals.com
 arch-mirror.marcusspencer.xyz:4443
-arch-mirror.marcusspencer.xyz:8080
 arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
@@ -393,6 +392,7 @@ mirror.thekinrar.fr
 mirror.theo546.fr
 mirror.tiguinet.net
 mirror.timtal.com.tr
+mirror.trap.moe
 mirror.truenetwork.ru
 mirror.tux.si
 mirror.twds.com.tw
