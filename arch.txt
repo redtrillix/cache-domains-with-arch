@@ -96,6 +96,7 @@ de-nue.soulharsh007.dev
 de.arch.mirror.kescher.at
 de.arch.niranjan.co
 de.mirrors.cicku.me
+de.repo.c48.uk
 depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
@@ -333,6 +334,7 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nishi.network
+mirror.nl.cdn-perfprod.com
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
@@ -567,6 +569,7 @@ theswissbay.ch
 tr.arch.niranjan.co
 tux.rainside.sk
 tw.mirrors.cicku.me
+upstream-1.pablonara.com
 us-1.arch-linux.mirror.shieldblaze.com
 us-mnz.soulharsh007.dev
 us.arch.niranjan.co
@@ -575,6 +578,7 @@ uvermont.mm.fcix.net
 volico.mm.fcix.net
 vpsmurah.jagoanhosting.com
 wcbmedia.io:8000
+web.sketserv.ru
 www.caco.ic.unicamp.br
 www.gtlib.gatech.edu
 www.gutscheindrache.com
