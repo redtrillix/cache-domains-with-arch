@@ -242,7 +242,6 @@ mirror.cspacehostings.com
 mirror.cyberbits.asia
 mirror.cyberbits.eu
 mirror.cybersecurity.nmt.edu
-mirror.dal10.us.leaseweb.net
 mirror.datacenter.by
 mirror.dc.uz
 mirror.digitalnova.at
@@ -321,7 +320,6 @@ mirror.math.princeton.edu
 mirror.metalgamer.eu
 mirror.metanet.ch
 mirror.metrocast.net
-mirror.mia11.us.leaseweb.net
 mirror.mijn.host
 mirror.mikrogravitation.org
 mirror.mirohost.net
