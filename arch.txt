@@ -86,6 +86,7 @@ at.arch.mirror.kescher.at
 at.mirrors.cicku.me
 au.arch.niranjan.co
 au.mirrors.cicku.me
+berlin.mirror.pkgbuild.com
 br.mirrors.cicku.me
 ca.mirrors.cicku.me
 ca.us.mirror.archlinux-br.org
@@ -172,6 +173,7 @@ in.mirrors.cicku.me
 irltoolkit.mm.fcix.net
 is.mirror.flokinet.net
 it.mirrors.cicku.me
+johannesburg.mirror.pkgbuild.com
 jp.mirrors.cicku.me
 kacabenggala.uny.ac.id
 kebo.pens.ac.id
@@ -181,8 +183,10 @@ linorg.usp.br
 linux.rz.rub.de
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
+losangeles.mirror.pkgbuild.com
 lysakermoen.com
 m.lqy.me
+mala-arch-server.eu
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirroir.labhouse.fr
@@ -323,6 +327,7 @@ mirror.metrocast.net
 mirror.mijn.host
 mirror.mikrogravitation.org
 mirror.mirohost.net
+mirror.mobinhost.com
 mirror.morgan.kr
 mirror.moson.org
 mirror.nag.albony.in
@@ -559,10 +564,12 @@ ru.mirrors.cicku.me
 sa.mirrors.cicku.me
 sg.arch.niranjan.co
 sg.mirrors.cicku.me
+singapore.mirror.pkgbuild.com
 southfront.mm.fcix.net
 super.quantum-mirror.hu
 syd.mirror.rackspace.com
 sydney.mirror.pkgbuild.com
+taipei.mirror.pkgbuild.com
 theswissbay.ch
 tr.arch.niranjan.co
 tux.rainside.sk
