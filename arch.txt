@@ -216,6 +216,7 @@ mirror.arctic.lol
 mirror.aria-on-the-planet.es
 mirror.arizona.edu
 mirror.arvancloud.ir
+mirror.as20647.net
 mirror.ava.dev
 mirror.bahnhof.net
 mirror.barata.pt
@@ -292,6 +293,7 @@ mirror.infernocomms.net
 mirror.informatik.tu-freiberg.de
 mirror.init7.net
 mirror.internode.on.net
+mirror.ipb.de
 mirror.is.co.za
 mirror.isoc.org.il
 mirror.it4i.cz
@@ -438,6 +440,7 @@ mirrors.acm.wpi.edu
 mirrors.advancedhosters.com
 mirrors.aggregate.org
 mirrors.aliyun.com
+mirrors.aminvakil.com
 mirrors.atlas.net.co
 mirrors.atviras.lt
 mirrors.bfsu.edu.cn
@@ -495,6 +498,7 @@ mirrors.pablonara.com
 mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
+mirrors.purring.online
 mirrors.qlu.edu.cn
 mirrors.qvq.net.cn
 mirrors.radwebhosting.com
