@@ -83,6 +83,7 @@ artfiles.org
 asia.mirror.pkgbuild.com
 at-vie.soulharsh007.dev
 at.arch.mirror.kescher.at
+at.arch.niranjan.co
 at.mirrors.cicku.me
 au.arch.niranjan.co
 au.mirrors.cicku.me
@@ -262,7 +263,6 @@ mirror.ette.biz
 mirror.faizuladib.com
 mirror.fcix.net
 mirror.fossable.org
-mirror.fossindia.ovh
 mirror.fra10.de.leaseweb.net
 mirror.freedif.org
 mirror.fsmg.org.nz
