@@ -76,7 +76,6 @@ archlinux.za.mirror.allworldit.com
 archlinux.zepto.cloud
 archmirror.hbit.sztaki.hu
 archmirror.hogwarts.fr
-archmirror.xyz
 archmirror1.octyl.net
 arlm.tyzoid.com
 artfiles.org
@@ -193,7 +192,6 @@ mir.archlinux.fr
 mirroir.labhouse.fr
 mirror-archlinux.webruimtehosting.nl
 mirror-hk.koddos.net
-mirror.0x.sg
 mirror.0xem.ma
 mirror.23m.com
 mirror.2degrees.nz
