@@ -102,6 +102,7 @@ depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 dist-mirror.fem.tu-ilmenau.de
 distro.ibiblio.org
+distrohub.kyiv.ua
 download.nus.edu.sg
 edgeuno-bog2.mm.fcix.net
 elda.asgardius.company
@@ -109,7 +110,6 @@ elmirror.cl
 es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
 f.matthieul.dev
-fastmirror.pp.ua
 files.hadiko.de
 forksystems.mm.fcix.net
 fr.mirrors.cicku.me
