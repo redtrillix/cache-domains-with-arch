@@ -11,6 +11,7 @@ arch.jsc.mx
 arch.juline.tech
 arch.kurdy.org
 arch.midov.pl
+arch.miningtcup.me
 arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.hyperbit.it
