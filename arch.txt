@@ -1,6 +1,8 @@
 al.arch.niranjan.co
 america.mirror.pkgbuild.com
 appuals.com
+arch-lux.spirex.me
+arch-mirror.brightlight.today
 arch-mirror.marcusspencer.xyz:4443
 arch-mirror.wtako.net
 arch.goober.cloud
@@ -220,6 +222,7 @@ mirror.arvancloud.ir
 mirror.as20647.net
 mirror.ava.dev
 mirror.bahnhof.net
+mirror.bakertelekom.fr
 mirror.barata.pt
 mirror.bardia.tech
 mirror.bethselamin.de
@@ -288,7 +291,6 @@ mirror.hostiran.ir
 mirror.hostup.org
 mirror.hugo-betrugo.de
 mirror.i3d.net
-mirror.ibakerserver.pt
 mirror.ihost.md
 mirror.infernocomms.net
 mirror.informatik.tu-freiberg.de
@@ -383,6 +385,7 @@ mirror.sfo12.us.leaseweb.net
 mirror.sg.gs
 mirror.siena.edu
 mirror.siwoo.org
+mirror.smayzy.ovh
 mirror.smith.geek.nz
 mirror.spaceint.fr
 mirror.srv.fail
@@ -510,6 +513,7 @@ mirrors.rutgers.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
 mirrors.sjtug.sjtu.edu.cn
+mirrors.smeal.xyz
 mirrors.sonic.net
 mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
