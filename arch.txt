@@ -48,6 +48,7 @@ archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
 archlinux.koyanet.lv
+archlinux.kushwanthreddy.com
 archlinux.macarne.com
 archlinux.mailtunnel.eu
 archlinux.mirror.ba
@@ -93,6 +94,7 @@ berlin.mirror.pkgbuild.com
 br.mirrors.cicku.me
 ca.mirrors.cicku.me
 ca.us.mirror.archlinux-br.org
+cdnmirror.com
 ch.mirrors.cicku.me
 codingflyboy.mm.fcix.net
 coresite.mm.fcix.net
@@ -600,6 +602,7 @@ www.gutscheindrache.com
 www.miraa.jp
 www.mirrorservice.org
 www.sooftware.com
+yonderly.org
 za.mirror.archlinux-br.org
 za.mirrors.cicku.me
 ziply.mm.fcix.net
