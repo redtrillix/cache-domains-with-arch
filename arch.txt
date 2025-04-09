@@ -115,6 +115,7 @@ elmirror.cl
 es.mirrors.cicku.me
 europe.mirror.pkgbuild.com
 f.matthieul.dev
+fi.arch.niranjan.co
 files.hadiko.de
 forksystems.mm.fcix.net
 fr.mirrors.cicku.me
@@ -540,12 +541,14 @@ mirrors.zju.edu.cn
 mnvoip.mm.fcix.net
 muug.ca
 ncuesaweb.ncue.edu.tw
+nl.arch.niranjan.co
 nl.mirror.flokinet.net
 nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
 nox.panibrez.com
+nz.arch.niranjan.co
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
 ord.mirror.rackspace.com
