@@ -238,6 +238,7 @@ mirror.cyberbits.asia
 mirror.cyberbits.eu
 mirror.datacenter.by
 mirror.dc.uz
+mirror.del2.albony.in
 mirror.digitalnova.at
 mirror.ditatompel.com
 mirror.dkm.cz
@@ -319,7 +320,6 @@ mirror.mirohost.net
 mirror.mobinhost.com
 mirror.morgan.kr
 mirror.moson.org
-mirror.nag.albony.in
 mirror.nak-mci.ir
 mirror.neostrada.nl
 mirror.netcologne.de
@@ -343,6 +343,7 @@ mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
 mirror.poliwangi.ac.id
 mirror.powerfly.ca
+mirror.przekichane.pl
 mirror.ps.kz
 mirror.pseudoform.org
 mirror.puzzle.ch
