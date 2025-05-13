@@ -2,7 +2,6 @@ al.arch.niranjan.co
 america.mirror.pkgbuild.com
 arch-lux.spirex.me
 arch-mirror.brightlight.today
-arch-mirror.marcusspencer.xyz:4443
 arch-mirror.wtako.net
 arch.goober.cloud
 arch.hu.fo
@@ -17,15 +16,14 @@ arch.mirror.constant.com
 arch.mirror.far.fi
 arch.mirror.hyperbit.it
 arch.mirror.k0.ae
+arch.mirror.marcusspencer.us:4443
 arch.mirror.square-r00t.net
 arch.mirror.winslow.cloud
 arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
-arch.nimukaito.net
 arch.phinau.de
 arch.sakamoto.pl
-arch.serverspace.co.uk
 arch.softver.org.mk
 arch.syxpi.fr
 arch.unixpeople.org
@@ -46,6 +44,7 @@ archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
 archlinux.koyanet.lv
 archlinux.kushwanthreddy.com
+archlinux.lysakermoen.com
 archlinux.macarne.com
 archlinux.mailtunnel.eu
 archlinux.mirror.digitalpacific.com.au
@@ -57,7 +56,6 @@ archlinux.mirror.liteserver.nl
 archlinux.mirror.net.in
 archlinux.mirror.py
 archlinux.mirror.rafal.ca
-archlinux.mirror.root.lu
 archlinux.mirror.server24.net
 archlinux.mirror.wearetriple.com
 archlinux.mirrors.linux.ro
@@ -65,7 +63,6 @@ archlinux.mirrors.ovh.net
 archlinux.mivzakim.net
 archlinux.nautile.nc
 archlinux.ourhome.kiwi
-archlinux.pop-es.rnp.br
 archlinux.richard-neumann.de
 archlinux.thaller.ws
 archlinux.uib.no
@@ -142,7 +139,6 @@ ftp.rnl.tecnico.ulisboa.pt
 ftp.sh.cvut.cz
 ftp.snt.utwente.nl
 ftp.spline.inf.fu-berlin.de
-ftp.sudhip.com
 ftp.swin.edu.au
 ftp.tku.edu.tw
 ftp.tsukuba.wide.ad.jp
@@ -180,7 +176,6 @@ linux.rz.rub.de
 lon.mirror.rackspace.com
 london.mirror.pkgbuild.com
 losangeles.mirror.pkgbuild.com
-lysakermoen.com
 m.lqy.me
 mala-arch-server.eu
 md.mirrors.hacktegic.com
@@ -288,7 +283,6 @@ mirror.jingk.ai
 mirror.jonas-prz.be
 mirror.jordanrey.me
 mirror.juniorjpdj.pl
-mirror.kaminski.io
 mirror.kamtv.ru
 mirror.keiminem.com
 mirror.kku.ac.th
@@ -301,8 +295,8 @@ mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.leitecastro.com
 mirror.librelabucm.org
+mirror.limda.net
 mirror.lnx.sk
-mirror.lty.me
 mirror.lyrahosting.com
 mirror.lzu.edu.cn
 mirror.maa.albony.in
@@ -329,17 +323,14 @@ mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
 mirror.onevip.mk
-mirror.orbit-os.com
 mirror.osbeck.com
 mirror.ourhost.az
 mirror.pagenotfound.de
 mirror.papua.go.id
 mirror.peeres-telecom.fr
-mirror.phx1.us.spryservers.net
 mirror.pilotfiber.com
 mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
-mirror.powerfly.ca
 mirror.przekichane.pl
 mirror.ps.kz
 mirror.pseudoform.org
@@ -348,7 +339,6 @@ mirror.quantum5.ca
 mirror.rackspace.com
 mirror.raiolanetworks.com
 mirror.redrock.team
-mirror.reisenbauer.ee
 mirror.repository.id
 mirror.ro.cdn-perfprod.com
 mirror.rol.ru
@@ -357,7 +347,6 @@ mirror.sabay.com.kh
 mirror.saebasol.org
 mirror.safe-con.dk
 mirror.sahil.world
-mirror.satis-faction.de
 mirror.scd31.com
 mirror.selfnet.de
 mirror.server.net
@@ -371,7 +360,6 @@ mirror.smith.geek.nz
 mirror.srv.fail
 mirror.st2projects.com
 mirror.sunred.org
-mirror.sysa.tech
 mirror.system.is
 mirror.t-home.mk
 mirror.tarellia.net
@@ -455,7 +443,6 @@ mirrors.kernel.org
 mirrors.lahansons.com
 mirrors.liquidweb.com
 mirrors.lug.mtu.edu
-mirrors.manchester.m247.com
 mirrors.marquitos.space
 mirrors.melbourne.co.uk
 mirrors.mit.edu
@@ -485,10 +472,10 @@ mirrors.rit.edu
 mirrors.rutgers.edu
 mirrors.saswata.cc
 mirrors.shanghaitech.edu.cn
+mirrors.shr.cx
 mirrors.sjtug.sjtu.edu.cn
 mirrors.smeal.xyz
 mirrors.sonic.net
-mirrors.standaloneinstaller.com
 mirrors.tuna.tsinghua.edu.cn
 mirrors.twilight.fyi
 mirrors.udenar.edu.co
