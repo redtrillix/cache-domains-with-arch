@@ -1,5 +1,6 @@
 al.arch.niranjan.co
 america.mirror.pkgbuild.com
+ams.nl.mirrors.bjg.at
 arch-lux.spirex.me
 arch-mirror.brightlight.today
 arch-mirror.wtako.net
@@ -239,6 +240,7 @@ mirror.guillaumea.fr
 mirror.hafeezh.com
 mirror.hashy0917.net
 mirror.hasphetica.win
+mirror.hb9hil.org
 mirror.hnd.cl
 mirror.host.ag
 mirror.hosthink.net
@@ -290,6 +292,7 @@ mirror.netweaver.uk
 mirror.neuf.no
 mirror.nishi.network
 mirror.nl.cdn-perfprod.com
+mirror.nucc.tr
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
@@ -372,7 +375,6 @@ mirrors.aminvakil.com
 mirrors.atlas.net.co
 mirrors.atviras.lt
 mirrors.bfsu.edu.cn
-mirrors.bjg.at
 mirrors.bloomu.edu
 mirrors.cat.net
 mirrors.cat.pdx.edu
@@ -451,6 +453,7 @@ nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nova.quantum-mirror.hu
 nox.panibrez.com
+ny.us.mirrors.bjg.at
 nz.arch.niranjan.co
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
