@@ -106,6 +106,7 @@ files.hadiko.de
 forksystems.mm.fcix.net
 fr.mirror.shibe.party
 fr.mirrors.cicku.me
+frankfurt.mirror.pkgbuild.com
 free.nchc.org.tw
 ftp-stud.hs-esslingen.de
 ftp.agdsn.de
@@ -508,7 +509,6 @@ southfront.mm.fcix.net
 stygian.failzero.net
 super.quantum-mirror.hu
 syd.mirror.rackspace.com
-sydney.mirror.pkgbuild.com
 taipei.mirror.pkgbuild.com
 theswissbay.ch
 tr.arch.niranjan.co
