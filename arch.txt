@@ -477,7 +477,6 @@ nl.mirrors.cicku.me
 nnenix.mm.fcix.net
 nocix.mm.fcix.net
 nox.panibrez.com
-ny.us.mirrors.bjg.at
 nz.arch.niranjan.co
 ohioix.mm.fcix.net
 opencolo.mm.fcix.net
