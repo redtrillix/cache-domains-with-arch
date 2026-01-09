@@ -175,6 +175,7 @@ london.mirror.pkgbuild.com
 losangeles.mirror.pkgbuild.com
 m.lqy.me
 mala-arch-server.eu
+md.arch.niranjan.co
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirror-de-1.cutie.dating
